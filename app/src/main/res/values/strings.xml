@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppWidgetExample</string>
+    <string name="HomePageTitle">Hello WorldWelcome from App Widget......</string>
+
+    <string-array name="media_names">
+        <item>Big Buck Bunny</item>
+        <item>Elephants Dream</item>
+        <item>Sintel</item>
+        <item>Tears of Steel</item>
+    </string-array>
+</resources>
